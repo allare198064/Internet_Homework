@@ -8,4 +8,9 @@
 
 - 407410306
 
-## 407410306.txt[https://github.com/allare198064/Internet_Homework/blob/main/407410306.txt]
+## My GitHub
+
+- [Main page](https://github.com/allare198064/Internet_Homework)
+
+- [407410306.txt](https://github.com/allare198064/Internet_Homework/blob/main/407410306.txt)
+
